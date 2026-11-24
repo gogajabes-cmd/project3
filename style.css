@@ -2,8 +2,10 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #18f55a;
+    background-color: #69f091;
     border: 2px solid #000000;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1{
     color: #f8300d;
@@ -11,13 +13,13 @@ h1{
     margin-top: 50px;
 }
 .one{
-    color: #34ffff;
+    color: #050707;
     font-family: 'Arial', sans-serif;
     margin-top: 50px;
 }
 #info{
     border: 2px solid #000000;
-    color: #2efdfd;
+    color: #040707;
     font-family: 'Arial', sans-serif;
     margin-right: 43%;
     padding: 10px;
